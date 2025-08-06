@@ -1,6 +1,6 @@
-# 🌡️ NYC Temperature Forecasting (2005–2025)
+# 🌡️ NYC Temperature Forecasting (2000–2025)
 
-This project uses 20 years of average daily temperature data in New York City to forecast future temperatures using:
+This project uses 25 years of average daily temperature data in New York City to forecast future temperatures using:
 - ARIMA (AutoRegressive Integrated Moving Average)
 - LSTM (Long Short-Term Memory Neural Networks)
 
